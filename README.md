@@ -19,3 +19,4 @@ python Day1_Two_Sum.py
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | Brute force + Hash map | [Day1_Two_Sum.py](Day1_Two_Sum.py) |
 | 2 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | Brute force + One pass | [Day2_Best_Time_to_Buy_and_Sell_Stock.py](Day2_Best_Time_to_Buy_and_Sell_Stock.py) |
 | 3 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | Hash set (one pass) | [Day3_Contains_Duplicate.py](Day3_Contains_Duplicate.py) |
+| 4 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | Sorting + Hash map | [Day4_Valid_Anagram.py](Day4_Valid_Anagram.py) |
