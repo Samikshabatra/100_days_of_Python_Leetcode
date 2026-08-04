@@ -23,3 +23,4 @@ python Day1_Two_Sum.py
 | 5 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | Stack | [Day5_Valid_Parentheses.py](Day5_Valid_Parentheses.py) |
 | 6 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Medium | Brute force + Kadane's | [Day6_Maximum_Subarray.py](Day6_Maximum_Subarray.py) |
 | 7 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | Prefix + suffix products | [Day7_Product_of_Array_Except_Self.py](Day7_Product_of_Array_Except_Self.py) |
+| 8 | [3Sum](https://leetcode.com/problems/3sum/) | Medium | Brute force (TLE) | [Day8_3Sum.py](Day8_3Sum.py) |
